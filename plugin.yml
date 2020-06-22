@@ -1,0 +1,7 @@
+api: '1.15.2'
+name: CTransporter
+version: '3.0'
+main: snakkos.github.io.ctransporter.CTransporter
+commands:
+  ctransporter:
+    description: ''
